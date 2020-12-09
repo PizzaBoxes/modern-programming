@@ -1,2 +1,2 @@
-# modern-programming-duketip-2017
+# modern-programming
 Code made during the Duke TIP program in 2017. Class: Modern Programming
